@@ -10,4 +10,4 @@ console.log("this is fifth");
 
 console.log("this is sixth");
 
-console.log("this is seventh");
+#console.log("this is seventh");
